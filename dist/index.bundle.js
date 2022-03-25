@@ -3341,6 +3341,465 @@ $(document).ready(function () {
 
 /***/ }),
 
+/***/ "./src/pages/organazation.js":
+/*!***********************************!*\
+  !*** ./src/pages/organazation.js ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+/* provided dependency */ var $ = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js");
+var options = {
+  "id": "200066",
+  "level": 1,
+  "className": "level1",
+  "dept": "總經理室",
+  "position": "總經理",
+  "name": "maggie",
+  "chName": "OOO",
+  "ext": "5011",
+  "area": "新店9樓",
+  "areaUrl": "新店9樓",
+  "pic": "https://fakeimg.pl/100x100/DDDDDD/",
+  "count": null,
+  "teamDetail": "",
+  "isLast": false,
+  "children": [{
+    "id": "200066",
+    "level": 2,
+    "className": "level2",
+    "dept": "市場行銷處",
+    "position": "總經理",
+    "name": "maggie.chao",
+    "chName": "OOO",
+    "ext": "5011",
+    "area": "新店9樓",
+    "areaUrl": null,
+    "pic": null,
+    "count": null,
+    "teamDetail": "跟隨公司擬定之經營策略，爭取外部市場發展之最大可能：\r\n​- 負責業務策略及相關業務系統之整合及推動\r\n- 驅動並持續發展公司定義之聚焦市場\r\n- 依據公司業務發展及獲利目標，訂定產品及技術提升之策略方向​\r\n- 透過市場調查及客戶研究，瞭解客戶需求，以發展公司年度行銷策略\r\n- 維護客戶關係管理、客戶資料分析，規劃與執行行銷活動",
+    "isLast": false,
+    "children": [{
+      "id": "200071",
+      "level": 3,
+      "className": "level3",
+      "dept": "通路事業部",
+      "position": "經理",
+      "name": "david.hsiao",
+      "chName": "OOO",
+      "ext": "5012",
+      "area": "新店9樓",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "強化通路價值，實現業務開發：\r\n依公司定義聚焦之應用市場及產品組合，研擬轄下各地區銷售策略，穩固既有通路夥伴 (Customer Intimacy)，持續開發Solution Provider，培養關鍵客戶Key Account。持續發掘目標客戶的JTBD (Jobs to Be Done)，提供我們最佳的產品及服務以創造營收。同時，藉由不斷累積及厚實的客戶群，提高益網品牌在該目標市場的市佔率。",
+      "isLast": false,
+      "children": [{
+        "id": "200071",
+        "level": 3,
+        "className": "isLast",
+        "dept": "課務一",
+        "position": "經理",
+        "name": "david.hsiao",
+        "chName": "OOO",
+        "ext": "5012",
+        "area": "nullnull",
+        "areaUrl": null,
+        "pic": null,
+        "count": null,
+        "teamDetail": "強化通路價值，實現業務開發：\r\n依公司定義聚焦之應用市場及產品組  合，研擬轄下各地區銷售策略，穩固既有通路夥伴 (Customer Intimacy)，持續開發    Solution Provider，培養關鍵客戶Key Account。持續發掘目標客戶的JTBD (Jobs to     Be Done)，提供我們最佳的產品及服務以創造營收。同時，藉由不斷累積及厚實的客戶群，提  高益網品牌在該目標市場的市佔率。",
+        "isLast": true,
+        "children": []
+      }, {
+        "id": "200071",
+        "level": 3,
+        "className": "isLast",
+        "dept": "課務一",
+        "position": "經理",
+        "name": "david.hsiao",
+        "chName": "OOO",
+        "ext": "5012",
+        "area": "nullnull",
+        "areaUrl": null,
+        "pic": null,
+        "count": null,
+        "teamDetail": "強化通路價值，實現業務開發：\r\n依公司定義聚焦之應用市場及產品組  合，研擬轄下各地區銷售策略，穩固既有通路夥伴 (Customer Intimacy)，持續開發    Solution Provider，培養關鍵客戶Key Account。持續發掘目標客戶的JTBD (Jobs to     Be Done)，提供我們最佳的產品及服務以創造營收。同時，藉由不斷累積及厚實的客戶群，提  高益網品牌在該目標市場的市佔率。",
+        "isLast": true,
+        "children": []
+      }]
+    }, {
+      "id": "200073",
+      "level": 3,
+      "className": "isLast",
+      "dept": "業務管理部",
+      "position": "副理",
+      "name": "annie.fan",
+      "chName": "OOO",
+      "ext": "5024",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "業務營運基礎建設推手：\r\n- 集團業務支援及維護客戶關係管理。\r\n- 提供完善的後勤支援管理系統，有效縮短公司內部作業流程並提高執行效率。\r\n- 依照各項業務經營目的協助有效的規範、調整管理活動，及協助推動決策執行。 \r\n- 依照營運績效追蹤分析提供例行性管理性分析報表。",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200072",
+      "level": 3,
+      "className": "isLast",
+      "dept": "行銷企劃部",
+      "position": "副理",
+      "name": "sunny.cheng",
+      "chName": "OOO",
+      "ext": "5084",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "以多元活動形式，傳遞益網自有品牌之產品與服務價值於聚焦市場之中：\r\n- 針對公司的企業形象與品牌價值，規劃並執行各類行銷推廣活動/策略。\r\n- 跨部門合作，完成專案計畫，由內而外完善企業識別/品牌價值。\r\n- 經營暨維護網路數位平台。",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200222",
+      "level": 3,
+      "className": "isLast",
+      "dept": "產品應用暨技術諮詢部",
+      "position": "副理",
+      "name": "louis.chen",
+      "chName": "OOO",
+      "ext": "5118",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "以售前諮詢及售後服務，橋接合作產品、客戶與內部技術團隊：\r\n- 協助專案客戶進行網路拓譜建置諮詢及產品應用規劃\r\n- 提供設備異常原因判斷及故障排除服務\r\n- 以客戶經驗回饋，協作強化產品價值",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200342",
+      "level": 3,
+      "className": "isLast",
+      "dept": "工業乙太網路產品行銷部",
+      "position": "資深經理",
+      "name": "ben.chiang",
+      "chName": "OOO",
+      "ext": "5208",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "益網自有品牌有線產品及聚焦市場發展之先驅：\r\n- 於核心發展之聚焦市場中，強化內部資源整合，經營品牌發展策略。\r\n- 擬定工業乙太網路設備之應用及技術發展的中長期策略方向，含有關技術授權、技術外購和策略聯盟的評估。\r\n- 統籌新產品之行銷策略，並對新產品營收及獲利負責。",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200111",
+      "level": 3,
+      "className": "isLast",
+      "dept": "策略市場部",
+      "position": "經理",
+      "name": "david.fan",
+      "chName": "OOO",
+      "ext": "5202",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "深耕於特定應用，實現業務開發：\r\n依公司定義聚焦之特定垂直市場及產品組合,  觀察及了解該市場應用及專業需求, 發掘潛在的商業機會. 選定最有機會且具成長動能的關鍵客戶, 擬定最適宜的開發策略. 以關鍵客戶需求為出發點, 發掘其JTBD (Jobs to Be Done), 同時連結益網技術諮詢團隊, 快速提出完整解決方案。",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200241",
+      "level": 3,
+      "className": "isLast",
+      "dept": "無線物聯網創新部",
+      "position": "經理",
+      "name": "joseph.cheng",
+      "chName": "OOO",
+      "ext": "5127",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "無線產品線之規劃與管理",
+      "isLast": true,
+      "children": []
+    }]
+  }, {
+    "id": "200318",
+    "level": 2,
+    "className": "level2",
+    "dept": "人力暨資訊資源服務部",
+    "position": "資深經理",
+    "name": "vicky.huang",
+    "chName": "OOO",
+    "ext": "5166",
+    "area": "nullnull",
+    "areaUrl": null,
+    "pic": null,
+    "count": null,
+    "teamDetail": "人力資源：以功能面區分：人事行政、人力資源管理、人力資源發展、人力資本管理\r\n- 研究如何找到「對」的人加入團隊、如何提升員工的學習成效、如何確保員工對團隊力的承諾，\r\n- 員工為企業最重要的投資標的，認知到每個人的獨特性。所以著重在組織跟個人的價值觀契合度。\r\n\r\n資訊服務：以功能面區分：管理監控分析、軟硬維護執行、有效整合設計\r\n- 在IT服務上維持可靠、安全、高效且具成本效益的基本營運。\r\n- 了解企業管理階層與董事會目標，科學方法分析可行的科技解決方案。\r\n- 重新衡量IT支出的分配，逐漸轉向符合未來目標的發展項目。",
+    "isLast": false,
+    "children": []
+  }, {
+    "id": "200207",
+    "level": 2,
+    "className": "level2",
+    "dept": "行政處",
+    "position": "經理",
+    "name": "charles.liu",
+    "chName": "OOO",
+    "ext": "5081",
+    "area": "nullnull",
+    "areaUrl": null,
+    "pic": null,
+    "count": null,
+    "teamDetail": "以「維持公司營運順暢，保障同仁安全及健康」為使命，並以「團隊相互合作，創造共享價值」為願景。",
+    "isLast": false,
+    "children": [{
+      "id": "200207",
+      "level": 3,
+      "className": "isLast",
+      "dept": "總務部",
+      "position": "經理",
+      "name": "charles.liu",
+      "chName": "OOO",
+      "ext": "5081",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "- 總務事務與環境維護之管理\r\n- 辦公室租賃及修繕管理\r\n- 安衛環管理系統之協辦與執行",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200207",
+      "level": 3,
+      "className": "isLast",
+      "dept": "財會部",
+      "position": "經理",
+      "name": "charles.liu",
+      "chName": "OOO",
+      "ext": "5081",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "- 統籌公司帳務處理、執行成本資料蒐集與分析。\r\n- 規畫暨執行公司財務管理及資金調度業務。\r\n- 財務報表之編制及管理性財務資料之建立與分析。\r\n- 綜合管理公司稅務之規劃、執行及各項稅務法令之遵循。\r\n- 預算規劃及控管每月預算執行狀況及差異分析。",
+      "isLast": true,
+      "children": []
+    }]
+  }, {
+    "id": "200022",
+    "level": 2,
+    "className": "level2",
+    "dept": "供應鏈管理處",
+    "position": "經理",
+    "name": "christina.chen",
+    "chName": "OOO",
+    "ext": "6300",
+    "area": "nullnull",
+    "areaUrl": null,
+    "pic": null,
+    "count": null,
+    "teamDetail": "整合供應商、客戶與市場供需資訊，規劃生產與安排出貨交期。",
+    "isLast": false,
+    "children": [{
+      "id": "200022",
+      "level": 3,
+      "className": "isLast",
+      "dept": "製造部",
+      "position": "經理",
+      "name": "christina.chen",
+      "chName": "OOO",
+      "ext": "6300",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "- 綜理產品之生產執行並準時完成工單以符合預定交期。\r\n- 處理量產後的產品生產過程品質異常問題。\r\n- 協調研發人員進行產品開發時期試產事宜。\r\n- 持續進行提高良率與降低成本，改善製程之精進事項。",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200022",
+      "level": 3,
+      "className": "isLast",
+      "dept": "資材部",
+      "position": "經理",
+      "name": "christina.chen",
+      "chName": "OOO",
+      "ext": "6300",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "- 依據接單需求，規劃最佳化生產計劃與排程後，安排工單生產製令。  \r\n- 確認物料狀況，確保如期生產，以符合客戶交期。  \r\n- 擬定量產條件之修正與最適化策略，跟催物料協調產線作業，以達到生產作業順暢。  \r\n- 協調外包廠完成SMT代工與部分全製程生產項目，包含協調料件調度相關事宜。\r\n- 協助開發團隊處理新料件與替代料件之選用事宜。\r\n- 規畫選商策略與負責新供應商承認與廠驗檢核事宜\r\n- 評析原物料市場供應資訊及成本控制，根據需求執行採購作業以及料況追蹤處理，直至驗收入庫請款流程完畢 。\r\n- 物料收發、半成品、成品之入庫、保管、盤存以及出貨運輸安排。",
+      "isLast": true,
+      "children": []
+    }]
+  }, {
+    "id": "200084",
+    "level": 2,
+    "className": "level2",
+    "dept": "品質保證處",
+    "position": "資深經理",
+    "name": "wayne.chen",
+    "chName": "OOO",
+    "ext": "6200",
+    "area": "nullnull",
+    "areaUrl": null,
+    "pic": null,
+    "count": null,
+    "teamDetail": "推行品質管理系統及推動持續改善，確保生產高品質的產品，並提供客戶優良且快速的服務。配合各單位需求，提供品質相關事項的服務，以推動公司持續成長。",
+    "isLast": false,
+    "children": [{
+      "id": "200084",
+      "level": 3,
+      "className": "isLast",
+      "dept": "品質系統部",
+      "position": "資深經理",
+      "name": "wayne.chen",
+      "chName": "OOO",
+      "ext": "6200",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "- 管理系統的運作與監督: 建立並推行公司整體國際管理系統之運作，公司內外稽核計劃之擬定與執行，作業流程改善專案溝通協調與執行。\r\n- 文管中心: 產品BOM資訊維護與管理，產品設計(NPDP)資料維護與管理。\r\n- 綠色產品: 產品符合有害物質規範的推行。 ",
+      "isLast": true,
+      "children": []
+    }, {
+      "id": "200084",
+      "level": 3,
+      "className": "isLast",
+      "dept": "品質保證部",
+      "position": "資深經理",
+      "name": "wayne.chen",
+      "chName": "OOO",
+      "ext": "6200",
+      "area": "nullnull",
+      "areaUrl": null,
+      "pic": null,
+      "count": null,
+      "teamDetail": "- 品質保證: 產品品質管理與監督。\r\n- 持續改善: 品質持續改善的推動。\r\n- 售後服務: 快速且完善的售後服務與客訴回應。",
+      "isLast": true,
+      "children": []
+    }]
+  }]
+};
+
+function nodeTemplate(options) {
+  var areaControl = '';
+  var departmentIcon = ''; // let bottomPanel = '';
+
+  var level3 = '';
+  var level2 = '';
+  var level1 = '';
+  var isLast = '';
+
+  if (options.areaUrl !== null) {
+    areaControl = "<div class=\"areaUrl\" data-url=\"".concat(options.areaUrl, "\" data-bs-toggle=\"modal\" data-bs-target=\"#floorPlan\">").concat(options.area, "<i class=\"fas fa-angle-right\"></i></div>");
+  } else {
+    areaControl = options.area;
+  }
+
+  if (!options.isLast) {
+    departmentIcon = "<span class=\"col-2 icon\" data-bs-toggle=\"modal\" data-bs-target=\"#exampleModal".concat(options.id, "\"><i class=\"far fa-id-card\"></i></span>");
+  }
+
+  if (options.className == "level1" || options.className == "level2") {
+    level1 = "\n            <div class=\"col-lg-3 col-12\">\n               <div class=\"pic\">\n                  <img src=\"https://fakeimg.pl/100x100/DDDDDD/\">\n               </div>\n            </div>\n            <div class=\"col-lg-9 col-12\">\n               <div class=\"row m-1 align-items-center\">\n                  <div class=\"col-12 titleHeader\">\n                     <p class=\"position\">".concat(options.position, "</p>\n                     <p class=\"name\">").concat(options.chName, "</p>\n                     <p class=\"name\">").concat(options.name, "</p>\n                  </div>\n               </div>\n            </div>\n            <div class=\"col-12\">\n               <div class=\"row align-items-center\">\n                  <div class=\"col-6 text-start\">\n                     <p>\u5206\u6A5F<span>").concat(options.ext, "</span></p>\n                  </div>\n               <div class=\"col-6\">\n                  <div class=\"areaUrl\" data-url=\"").concat(options.areaUrl, "\" data-bs-toggle=\"modal\" data-bs-target=\"#floorPlan\">").concat(options.area, "</div>\n               </div>\n            </div>\n      ");
+  } else if (options.className == "level3") {
+    level3 = "\n            <div class=\"col-lg-12\">\n               <div class=\"row m-1\">\n                  <div class=\"col-12 titleHeader p-0\">\n                     <p class=\"position\">".concat(options.position, "</p>\n                     <p class=\"name\">").concat(options.chName, " &nbsp;  <span class=\"name\">").concat(options.name, "</span></p> \n                  </div>\n                  <div class=\"col-12\">\n                     <div class=\"row justify-content-between py-1\">\n                        <div class=\"col-6 p-0 text-start\">\n                           <p>\u5206\u6A5F<span>").concat(options.ext, "</span></p>\n                        </div>\n                        <div class=\"col-6 p-0\">\n                           <p>").concat(areaControl, "</p>\n                        </div>\n                     </div>\n                  </div>\n               </div>\n            </div>\n      ");
+  } else if (options.isLast) {
+    isLast = "\n            <div class=\"col-12\">\n               <div class=\"row m-1\">\n                  <div class=\"col-12 titleHeader p-0\">\n                     <p class=\"position\">".concat(options.position, "</p>\n                     <p class=\"name\">").concat(options.chName, " &nbsp; <span class=\"name\">").concat(options.name, "</span></p>\n                      \n                  </div>\n                  <div class=\"col-12\">\n                     <div class=\"row text-start\">\n                        <div class=\"col-6 p-0\">\n                           <p>\u5206\u6A5F<span>").concat(options.ext, "</span></p>\n                        </div>\n                        <div class=\"col-6 p-0\">\n                           <p>").concat(areaControl, "</p>\n                        </div>\n                     </div>\n                  </div>\n               </div>\n            </div>\n      ");
+  }
+
+  return "\n        <div class=\"header d-flex\">\n            <span class=\"col-10 dept\">".concat(options.dept, "</span>\n            ").concat(departmentIcon, "\n        </div>\n        <div class=\"d-flex flex-wrap align-items-center text-center p-0\">\n            ").concat(level1, "\n            ").concat(level2, "\n            ").concat(level3, "\n            ").concat(isLast, "\n        </div>\n        ");
+}
+
+var orgRender = $("#chart-container").orgchart({
+  data: options,
+  nodeTemplate: nodeTemplate,
+  nodeContent: "name",
+  verticalLevel: 3,
+  visibleLevel: 2,
+  depth: 2,
+  toggleSiblingsResp: false,
+  initCompleted: scrollbarOffset,
+  'createNode': function createNode($node, options) {
+    var Area = $('.modalArea');
+    var detailContent = "\n      <div class=\"modal fade\" id=\"exampleModal".concat(options.id, "\" tabindex=\"-1\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\">\n                    <div class=\"modal-dialog\">\n                        <div class=\"modal-content\">\n                        <div class=\"modal-header\">\n                            <h5 class=\"modal-title\" id=\"exampleModalLabel\">").concat(options.dept, "</h5>\n                            <button type=\"button\" class=\"btn-close\" data-bs-dismiss=\"modal\" aria-label=\"Close\"></button>\n                        </div>\n                        <div class=\"modal-body\">\n                            ").concat(options.teamDetail, "\n                        </div>\n                        </div>\n                    </div>\n         </div>  \n      ");
+    $(detailContent).appendTo(Area);
+  }
+});
+
+function getWindowSize() {
+  var windowWidth = window.innerWidth;
+  var windowHeight = window.innerHeight;
+  console.log('windowWidth', windowWidth);
+  console.log('windowHeight', windowHeight);
+
+  if (windowWidth <= 991) {
+    orgRender.options.verticalLevel = 2; // console.log(orgRender.options.verticalLevel);
+  } else {
+    orgRender.options.verticalLevel = 3; // console.log(orgRender.options.verticalLevel);
+    // return 3
+  }
+}
+
+getWindowSize();
+document.querySelector(".js-toggle").addEventListener("click", showAll);
+
+function showAll() {
+  var $temp = orgRender.$chart.find('.nodes');
+
+  if ($temp.hasClass('hidden') || $temp.children("li").hasClass('hidden')) {
+    $temp[0].offsetWidth;
+    $temp.removeClass('hidden');
+    $temp.find('.isCollapsedDescendant').removeClass('isCollapsedDescendant');
+    $temp.find('.isCollapsedSibling').removeClass('isCollapsedSibling');
+    $temp.find('.slide-up').removeClass('slide-up');
+    $temp.find('.slide-right').removeClass('slide-right');
+    $temp.children("li").removeClass('hidden');
+    $temp.children("li").find('.isCollapsedSibling').removeClass('isCollapsedSibling');
+    $temp.children("li").find('.slide-up').removeClass('slide-up');
+    $temp.children("li").find('.slide-right').removeClass('slide-right');
+    $temp.children("li").find('.slide-left').removeClass('slide-left');
+    scrollbarOffset(); //  scaleRender ()
+  } else {
+    orgRender.hideChildren(orgRender.$chart.find('.level2'));
+    scrollbarOffset(); //  scaleRender ()
+  }
+}
+
+function scrollbarOffset($node, options) {
+  var $container = orgRender.$chartContainer;
+  var $chart = orgRender.$chart;
+  var screenWidth = $(window).width();
+  var obj = $(".orgchart").width();
+  var objLeft = obj - screenWidth;
+  $(window).scrollLeft(objLeft); // scaleRender () 
+
+  console.log(document.querySelector(".orgchart").offsetTop);
+  console.log(document.querySelector("#chart-container").offsetTop);
+}
+
+function scaleRender() {
+  var $container = orgRender.$chartContainer;
+  var $chart = orgRender.$chart;
+  var scale = $container.width() / $chart.outerWidth(true);
+  var x = ($container.width() - $chart.outerWidth(true)) / 2 * (1 / scale);
+  var y = ($container.height() - $chart.outerHeight(true)) / 2 * (1 * scale);
+  orgRender.setChartScale($chart, scale);
+  var val = $chart.css('transform');
+  $chart.css('transform', val + ' translate(' + x + 'px,' + y + 'px)');
+  console.log('$container', $container.height());
+  console.log('$chart', $chart.outerHeight(true));
+}
+
+scaleRender();
+
+/***/ }),
+
 /***/ "./node_modules/bootstrap/dist/js/bootstrap.esm.js":
 /*!*********************************************************!*\
   !*** ./node_modules/bootstrap/dist/js/bootstrap.esm.js ***!
@@ -19264,9 +19723,26 @@ return jQuery;
 /*!*****************************!*\
   !*** ./src/scss/index.scss ***!
   \*****************************/
-/***/ (() => {
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-throw new Error("Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):\nHookWebpackError: Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nSassError: File to import not found or unreadable: datatables.net-responsive-dt/css/responsive.dataTables.min.\n        on line 4 of src/scss/index.scss\n>> @import 'datatables.net-responsive-dt/css/responsive.dataTables.min';\n\n   ^\n\n    at tryRunOrWebpackError (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/HookWebpackError.js:88:9)\n    at __webpack_require_module__ (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:5025:12)\n    at __webpack_require__ (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:4982:18)\n    at /Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:5053:20\n    at symbolIterator (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/neo-async/async.js:3485:9)\n    at done (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/neo-async/async.js:3527:9)\n    at Hook.eval [as callAsync] (eval at create (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/tapable/lib/Hook.js:18:14)\n    at /Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:4960:43\n    at symbolIterator (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/neo-async/async.js:3482:9)\n-- inner error --\nError: Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nSassError: File to import not found or unreadable: datatables.net-responsive-dt/css/responsive.dataTables.min.\n        on line 4 of src/scss/index.scss\n>> @import 'datatables.net-responsive-dt/css/responsive.dataTables.min';\n\n   ^\n\n    at Object.<anonymous> (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/src/scss/index.scss:1:7)\n    at /Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/javascript/JavascriptModulesPlugin.js:441:11\n    at Hook.eval [as call] (eval at create (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/tapable/lib/HookCodeFactory.js:19:10), <anonymous>:7:1)\n    at Hook.CALL_DELEGATE [as _call] (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/tapable/lib/Hook.js:14:14)\n    at /Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:5027:39\n    at tryRunOrWebpackError (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/HookWebpackError.js:83:7)\n    at __webpack_require_module__ (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:5025:12)\n    at __webpack_require__ (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:4982:18)\n    at /Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/webpack/lib/Compilation.js:5053:20\n    at symbolIterator (/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/neo-async/async.js:3485:9)\n\nGenerated code for /Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Volumes/Macintosh/Soetek/006.套件/Orgnazation_chart/src/scss/index.scss\n1 | throw new Error(\"Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\\nSassError: File to import not found or unreadable: datatables.net-responsive-dt/css/responsive.dataTables.min.\\n        on line 4 of src/scss/index.scss\\n>> @import 'datatables.net-responsive-dt/css/responsive.dataTables.min';\\n\\n   ^\\n\");");
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./node_modules/orgchart/dist/js/jquery.orgchart.min.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/orgchart/dist/js/jquery.orgchart.min.js ***!
+  \**************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+/* provided dependency */ var jQuery = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js");
+!function(e){ true&&"object"==typeof module.exports?e(__webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js"),window,document):e(jQuery,window,document)}(function(p,u,f,d){function t(e,t){this.$chartContainer=p(e),this.opts=t,this.defaultOptions={nodeTitle:"name",nodeId:"id",toggleSiblingsResp:!1,visibleLevel:999,chartClass:"",exportButton:!1,exportButtonName:"Export",exportFilename:"OrgChart",exportFileextension:"png",parentNodeSymbol:"oci-leader",draggable:!1,direction:"t2b",pan:!1,zoom:!1,zoominLimit:7,zoomoutLimit:.5}}t.prototype={init:function(e){var n=this;this.options=p.extend({},this.defaultOptions,this.opts,e);var t=this.$chartContainer;this.$chart&&this.$chart.remove();var i=this.options.data,s=this.$chart=p("<div>",{data:{options:this.options},class:"orgchart"+(""!==this.options.chartClass?" "+this.options.chartClass:"")+("t2b"!==this.options.direction?" "+this.options.direction:""),click:function(e){p(e.target).closest(".node").length||s.find(".node.focused").removeClass("focused")}});"undefined"!=typeof MutationObserver&&this.triggerInitEvent();var o=s.append(p('<ul class="nodes"><li class="hierarchy"></li></ul>')).find(".hierarchy");return"object"===p.type(i)?i instanceof p?this.buildHierarchy(o,this.buildJsonDS(i.children()),0,this.options):this.buildHierarchy(o,this.options.ajaxURL?i:this.attachRel(i,"00")):(s.append('<i class="oci oci-spinner spinner"></i>'),p.ajax({url:i,dataType:"json"}).done(function(e,t,i){n.buildHierarchy(o,n.options.ajaxURL?e:n.attachRel(e,"00"),0,n.options)}).fail(function(e,t,i){console.log(i)}).always(function(){s.children(".spinner").remove()})),t.append(s),this.options.exportButton&&!p(".oc-export-btn").length&&this.attachExportButton(),this.options.pan&&this.bindPan(),this.options.zoom&&this.bindZoom(),this},triggerInitEvent:function(){var s=this,o=new MutationObserver(function(e){o.disconnect();e:for(var t=0;t<e.length;t++)for(var i=0;i<e[t].addedNodes.length;i++)if(e[t].addedNodes[i].classList.contains("orgchart")){s.options.initCompleted&&"function"==typeof s.options.initCompleted&&s.options.initCompleted(s.$chart);var n=p.Event("init.orgchart");s.$chart.trigger(n);break e}});o.observe(this.$chartContainer[0],{childList:!0})},triggerLoadEvent:function(e,t){var i=p.Event("load-"+t+".orgchart");e.trigger(i)},triggerShowEvent:function(e,t){var i=p.Event("show-"+t+".orgchart");e.trigger(i)},triggerHideEvent:function(e,t){var i=p.Event("hide-"+t+".orgchart");e.trigger(i)},attachExportButton:function(){var t=this,e=p("<button>",{class:"oc-export-btn",text:this.options.exportButtonName,click:function(e){e.preventDefault(),t.export()}});this.$chartContainer.after(e)},setOptions:function(e,t){return"string"==typeof e&&("pan"===e&&(t?this.bindPan():this.unbindPan()),"zoom"===e&&(t?this.bindZoom():this.unbindZoom())),"object"==typeof e&&(e.data?this.init(e):(void 0!==e.pan&&(e.pan?this.bindPan():this.unbindPan()),void 0!==e.zoom&&(e.zoom?this.bindZoom():this.unbindZoom()))),this},panStartHandler:function(e){var o=p(e.delegateTarget);if(p(e.target).closest(".node").length||e.touches&&1<e.touches.length)o.data("panning",!1);else{o.css("cursor","move").data("panning",!0);var t=0,i=0,n=o.css("transform");if("none"!==n){var s=n.split(",");i=-1===n.indexOf("3d")?(t=parseInt(s[4]),parseInt(s[5])):(t=parseInt(s[12]),parseInt(s[13]))}var a=0,r=0;if(e.targetTouches){if(1===e.targetTouches.length)a=e.targetTouches[0].pageX-t,r=e.targetTouches[0].pageY-i;else if(1<e.targetTouches.length)return}else a=e.pageX-t,r=e.pageY-i;o.on("mousemove touchmove",function(e){if(o.data("panning")){var t=0,i=0;if(e.targetTouches){if(1===e.targetTouches.length)t=e.targetTouches[0].pageX-a,i=e.targetTouches[0].pageY-r;else if(1<e.targetTouches.length)return}else t=e.pageX-a,i=e.pageY-r;var n=o.css("transform");if("none"===n)-1===n.indexOf("3d")?o.css("transform","matrix(1, 0, 0, 1, "+t+", "+i+")"):o.css("transform","matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, "+t+", "+i+", 0, 1)");else{var s=n.split(",");-1===n.indexOf("3d")?(s[4]=" "+t,s[5]=" "+i+")"):(s[12]=" "+t,s[13]=" "+i),o.css("transform",s.join(","))}}})}},panEndHandler:function(e){e.data.chart.data("panning")&&e.data.chart.data("panning",!1).css("cursor","default").off("mousemove")},bindPan:function(){this.$chartContainer.css("overflow","hidden"),this.$chart.on("mousedown touchstart",this.panStartHandler),p(f).on("mouseup touchend",{chart:this.$chart},this.panEndHandler)},unbindPan:function(){this.$chartContainer.css("overflow","auto"),this.$chart.off("mousedown touchstart",this.panStartHandler),p(f).off("mouseup touchend",this.panEndHandler)},zoomWheelHandler:function(e){var t=e.data.oc;e.preventDefault();var i=1+(0<e.originalEvent.deltaY?-.2:.2);t.setChartScale(t.$chart,i)},zoomStartHandler:function(e){if(e.touches&&2===e.touches.length){var t=e.data.oc;t.$chart.data("pinching",!0);var i=t.getPinchDist(e);t.$chart.data("pinchDistStart",i)}},zoomingHandler:function(e){var t=e.data.oc;if(t.$chart.data("pinching")){var i=t.getPinchDist(e);t.$chart.data("pinchDistEnd",i)}},zoomEndHandler:function(e){var t=e.data.oc;if(t.$chart.data("pinching")){t.$chart.data("pinching",!1);var i=t.$chart.data("pinchDistEnd")-t.$chart.data("pinchDistStart");0<i?t.setChartScale(t.$chart,1.2):i<0&&t.setChartScale(t.$chart,.8)}},bindZoom:function(){this.$chartContainer.on("wheel",{oc:this},this.zoomWheelHandler),this.$chartContainer.on("touchstart",{oc:this},this.zoomStartHandler),p(f).on("touchmove",{oc:this},this.zoomingHandler),p(f).on("touchend",{oc:this},this.zoomEndHandler)},unbindZoom:function(){this.$chartContainer.off("wheel",this.zoomWheelHandler),this.$chartContainer.off("touchstart",this.zoomStartHandler),p(f).off("touchmove",this.zoomingHandler),p(f).off("touchend",this.zoomEndHandler)},getPinchDist:function(e){return Math.sqrt((e.touches[0].clientX-e.touches[1].clientX)*(e.touches[0].clientX-e.touches[1].clientX)+(e.touches[0].clientY-e.touches[1].clientY)*(e.touches[0].clientY-e.touches[1].clientY))},setChartScale:function(e,t){var i=e.data("options"),n=e.css("transform"),s="",o=1;"none"===n?e.css("transform","scale("+t+","+t+")"):(s=n.split(","),-1===n.indexOf("3d")?(o=Math.abs(u.parseFloat(s[3])*t))>i.zoomoutLimit&&o<i.zoominLimit&&e.css("transform",n+" scale("+t+","+t+")"):(o=Math.abs(u.parseFloat(s[1])*t))>i.zoomoutLimit&&o<i.zoominLimit&&e.css("transform",n+" scale3d("+t+","+t+", 1)"))},buildJsonDS:function(e){var t=this,i={name:e.contents().eq(0).text().trim(),relationship:(e.parent().parent().is("li")?"1":"0")+(e.siblings("li").length?1:0)+(e.children("ul").length?1:0)};return p.each(e.data(),function(e,t){i[e]=t}),e.children("ul").children().each(function(){i.children||(i.children=[]),i.children.push(t.buildJsonDS(p(this)))}),i},attachRel:function(t,e){var i=this;return t.relationship=e+(t.children&&0<t.children.length?1:0),t.children&&t.children.forEach(function(e){i.attachRel(e,"1"+(1<t.children.length?1:0))}),t},loopChart:function(e,t){t=null!==t&&t!==d&&t;var i=this,n=e.find(".node:first"),s={id:n[0].id};return t&&p.each(n.data("nodeData"),function(e,t){s[e]=t}),n.siblings(".nodes").children().each(function(){s.children||(s.children=[]),s.children.push(i.loopChart(p(this),t))}),s},getHierarchy:function(e){if(e=null!==e&&e!==d&&e,void 0===this.$chart)return"Error: orgchart does not exist";if(!this.$chart.find(".node").length)return"Error: nodes do not exist";var t=!0;return this.$chart.find(".node").each(function(){if(!this.id)return t=!1}),t?this.loopChart(this.$chart,e):"Error: All nodes of orghcart to be exported must have data-id attribute!"},getNodeState:function(e,t){var i={},n=!!e.closest("vertical").length;if("parent"===(t=t||"self")){if(n?(i=e.closest("ul").parents("ul")).length||(i=e.closest(".nodes")).length||(i=e.closest(".vertical").siblings(":first")):i=e.closest(".nodes").siblings(".node"),i.length)return i.is(".hidden")||!i.is(".hidden")&&i.closest(".nodes").is(".hidden")||!i.is(".hidden")&&i.closest(".vertical").is(".hidden")?{exist:!0,visible:!1}:{exist:!0,visible:!0}}else if("children"===t){if((i=n?e.parent().children("ul"):e.siblings(".nodes")).length)return i.is(".hidden")?{exist:!0,visible:!1}:{exist:!0,visible:!0}}else if("siblings"===t){if((i=n?e.closest("ul"):e.parent().siblings()).length&&(!n||1<i.children("li").length))return i.is(".hidden")||i.parent().is(".hidden")||n&&i.closest(".vertical").is(".hidden")?{exist:!0,visible:!1}:{exist:!0,visible:!0}}else if((i=e).length)return i.closest(".nodes").length&&i.closest(".nodes").is(".hidden")||i.closest(".hierarchy").length&&i.closest(".hierarchy").is(".hidden")||i.closest(".vertical").length&&(i.closest(".nodes").is(".hidden")||i.closest(".vertical").is(".hidden"))?{exist:!0,visible:!1}:{exist:!0,visible:!0};return{exist:!1,visible:!1}},getRelatedNodes:function(e,t){return e&&e instanceof p&&e.is(".node")?"parent"===t?e.closest(".nodes").siblings(".node"):"children"===t?e.siblings(".nodes").children(".hierarchy").find(".node:first"):"siblings"===t?e.closest(".hierarchy").siblings().find(".node:first"):p():p()},hideParentEnd:function(e){p(e.target).removeClass("sliding"),e.data.parent.addClass("hidden")},hideParent:function(e){var t=e.closest(".nodes").siblings(".node");t.find(".spinner").length&&e.closest(".orgchart").data("inAjax",!1),this.getNodeState(e,"siblings").visible&&this.hideSiblings(e),e.parent().addClass("isAncestorsCollapsed"),this.getNodeState(t).visible&&t.addClass("sliding slide-down").one("transitionend",{parent:t},this.hideParentEnd),this.getNodeState(t,"parent").visible&&this.hideParent(t)},showParentEnd:function(e){var t=e.data.node;p(e.target).removeClass("sliding"),this.isInAction(t)&&this.switchVerticalArrow(t.children(".topEdge"))},showParent:function(e){var t=e.closest(".nodes").siblings(".node").removeClass("hidden");e.closest(".hierarchy").removeClass("isAncestorsCollapsed"),this.repaint(t[0]),t.addClass("sliding").removeClass("slide-down").one("transitionend",{node:e},this.showParentEnd.bind(this))},stopAjax:function(e){e.find(".spinner").length&&e.closest(".orgchart").data("inAjax",!1)},isVisibleNode:function(e,t){return this.getNodeState(p(t)).visible},hideChildrenEnd:function(e){var t=e.data.node;e.data.animatedNodes.removeClass("sliding"),e.data.animatedNodes.closest(".nodes").addClass("hidden"),this.isInAction(t)&&this.switchVerticalArrow(t.children(".bottomEdge"))},hideChildren:function(e){e.closest(".hierarchy").addClass("isChildrenCollapsed");var t=e.siblings(".nodes");this.stopAjax(t);var i=t.find(".node").filter(this.isVisibleNode.bind(this));t.is(".vertical")||i.closest(".hierarchy").addClass("isCollapsedDescendant"),(t.is(".vertical")||t.find(".vertical").length)&&i.find(".oci-minus-square").removeClass("oci-minus-square").addClass("oci-plus-square"),this.repaint(i.get(0)),i.addClass("sliding slide-up").eq(0).one("transitionend",{animatedNodes:i,lowerLevel:t,node:e},this.hideChildrenEnd.bind(this))},showChildrenEnd:function(e){var t=e.data.node;e.data.animatedNodes.removeClass("sliding"),this.isInAction(t)&&this.switchVerticalArrow(t.children(".bottomEdge"))},showChildren:function(e){e.closest(".hierarchy").removeClass("isChildrenCollapsed");var t=e.siblings(".nodes"),i=t.is(".vertical"),n=i?t.removeClass("hidden").find(".node").filter(this.isVisibleNode.bind(this)):t.removeClass("hidden").children(".hierarchy").find(".node:first").filter(this.isVisibleNode.bind(this));i||(n.filter(":not(:only-child)").closest(".hierarchy").addClass("isChildrenCollapsed"),n.closest(".hierarchy").removeClass("isCollapsedDescendant")),this.repaint(n.get(0)),n.addClass("sliding").removeClass("slide-up").eq(0).one("transitionend",{node:e,animatedNodes:n},this.showChildrenEnd.bind(this))},hideSiblingsEnd:function(e){var t=e.data.node,i=e.data.nodeContainer,n=e.data.direction,s=n?"left"===n?i.prevAll(":not(.hidden)"):i.nextAll(":not(.hidden)"):i.siblings();e.data.animatedNodes.removeClass("sliding"),s.find(".node:gt(0)").filter(this.isVisibleNode.bind(this)).removeClass("slide-left slide-right").addClass("slide-up"),s.find(".nodes, .vertical").addClass("hidden").end().addClass("hidden"),this.isInAction(t)&&this.switchHorizontalArrow(t)},hideSiblings:function(e,t){var i=e.closest(".hierarchy").addClass("isSiblingsCollapsed");i.siblings().find(".spinner").length&&e.closest(".orgchart").data("inAjax",!1),t?"left"===t?i.addClass("left-sibs").prevAll(".isSiblingsCollapsed").removeClass("isSiblingsCollapsed left-sibs").end().prevAll().addClass("isCollapsedSibling isChildrenCollapsed").find(".node").filter(this.isVisibleNode.bind(this)).addClass("sliding slide-right"):i.addClass("right-sibs").nextAll(".isSiblingsCollapsed").removeClass("isSiblingsCollapsed right-sibs").end().nextAll().addClass("isCollapsedSibling isChildrenCollapsed").find(".node").filter(this.isVisibleNode.bind(this)).addClass("sliding slide-left"):(i.prevAll().find(".node").filter(this.isVisibleNode.bind(this)).addClass("sliding slide-right"),i.nextAll().find(".node").filter(this.isVisibleNode.bind(this)).addClass("sliding slide-left"),i.siblings().addClass("isCollapsedSibling isChildrenCollapsed"));var n=i.siblings().find(".sliding");n.eq(0).one("transitionend",{node:e,nodeContainer:i,direction:t,animatedNodes:n},this.hideSiblingsEnd.bind(this))},showSiblingsEnd:function(e){var t=e.data.node;e.data.visibleNodes.removeClass("sliding"),this.isInAction(t)&&(this.switchHorizontalArrow(t),t.children(".topEdge").removeClass("oci-chevron-up").addClass("oci-chevron-down"))},showRelatedParentEnd:function(e){p(e.target).removeClass("sliding")},showSiblings:function(e,t){var i=p(),n=e.closest(".hierarchy");i=t?"left"===t?n.prevAll().removeClass("hidden"):n.nextAll().removeClass("hidden"):e.closest(".hierarchy").siblings().removeClass("hidden");var s=e.closest(".nodes").siblings(".node");t?(n.removeClass(t+"-sibs"),n.is("[class*=-sibs]")||n.removeClass("isSiblingsCollapsed"),i.removeClass("isCollapsedSibling "+t+"-sibs")):(e.closest(".hierarchy").removeClass("isSiblingsCollapsed"),i.removeClass("isCollapsedSibling")),this.getNodeState(e,"parent").visible||(e.closest(".hierarchy").removeClass("isAncestorsCollapsed"),s.removeClass("hidden"),this.repaint(s[0]),s.addClass("sliding").removeClass("slide-down").one("transitionend",this.showRelatedParentEnd));var o=i.find(".node").filter(this.isVisibleNode.bind(this));this.repaint(o.get(0)),o.addClass("sliding").removeClass("slide-left slide-right"),o.eq(0).one("transitionend",{node:e,visibleNodes:o},this.showSiblingsEnd.bind(this))},startLoading:function(e){var t=this.$chart;return(void 0===t.data("inAjax")||!0!==t.data("inAjax"))&&(e.addClass("hidden"),e.parent().append('<i class="oci oci-spinner spinner"></i>').children().not(".spinner").css("opacity",.2),t.data("inAjax",!0),p(".oc-export-btn").prop("disabled",!0),!0)},endLoading:function(e){var t=e.parent();e.removeClass("hidden"),t.find(".spinner").remove(),t.children().removeAttr("style"),this.$chart.data("inAjax",!1),p(".oc-export-btn").prop("disabled",!1)},isInAction:function(e){return-1<e.children(".edge").attr("class").indexOf("oci-")},switchVerticalArrow:function(e){e.toggleClass("oci-chevron-up").toggleClass("oci-chevron-down")},switchHorizontalArrow:function(e){var t=this.options;if(t.toggleSiblingsResp&&(void 0===t.ajaxURL||e.closest(".nodes").data("siblingsLoaded"))){var i=e.parent().prev();i.length&&(i.is(".hidden")?e.children(".leftEdge").addClass("oci-chevron-left").removeClass("oci-chevron-right"):e.children(".leftEdge").addClass("oci-chevron-right").removeClass("oci-chevron-left"));var n=e.parent().next();n.length&&(n.is(".hidden")?e.children(".rightEdge").addClass("oci-chevron-right").removeClass("oci-chevron-left"):e.children(".rightEdge").addClass("oci-chevron-left").removeClass("oci-chevron-right"))}else{var s=e.parent().siblings(),o=!!s.length&&!s.is(".hidden");e.children(".leftEdge").toggleClass("oci-chevron-right",o).toggleClass("oci-chevron-left",!o),e.children(".rightEdge").toggleClass("oci-chevron-left",o).toggleClass("oci-chevron-right",!o)}},repaint:function(e){e&&(e.style.offsetWidth=e.offsetWidth)},nodeEnterLeaveHandler:function(e){var t=p(e.delegateTarget),i=!1;if(t.closest(".nodes.vertical").length){var n=t.children(".toggleBtn");"mouseenter"===e.type?t.children(".toggleBtn").length&&(i=this.getNodeState(t,"children").visible,n.toggleClass("oci-plus-square",!i).toggleClass("oci-minus-square",i)):n.removeClass("oci-plus-square oci-minus-square")}else{var s=t.children(".topEdge"),o=(t.children(".rightEdge"),t.children(".bottomEdge")),a=t.children(".leftEdge");"mouseenter"===e.type?(s.length&&(i=this.getNodeState(t,"parent").visible,s.toggleClass("oci-chevron-up",!i).toggleClass("oci-chevron-down",i)),o.length&&(i=this.getNodeState(t,"children").visible,o.toggleClass("oci-chevron-down",!i).toggleClass("oci-chevron-up",i)),a.length&&this.switchHorizontalArrow(t)):t.children(".edge").removeClass("oci-chevron-up oci-chevron-down oci-chevron-right oci-chevron-left")}},nodeClickHandler:function(e){this.$chart.find(".focused").removeClass("focused"),p(e.delegateTarget).addClass("focused")},loadNodes:function(t,e,i){var n=this;this.options;p.ajax({url:e,dataType:"json"}).done(function(e){n.$chart.data("inAjax")&&("parent"===t?p.isEmptyObject(e)||n.addParent(i.parent(),e):"children"===t?e.children.length&&n.addChildren(i.parent(),e[t]):n.addSiblings(i.parent(),e.siblings?e.siblings:e),n.triggerLoadEvent(i.parent(),t))}).fail(function(){console.log("Failed to get "+t+" data")}).always(function(){n.endLoading(i)})},HideFirstParentEnd:function(e){var t=e.data.topEdge,i=t.parent();this.isInAction(i)&&(this.switchVerticalArrow(t),this.switchHorizontalArrow(i))},topEdgeClickHandler:function(e){e.stopPropagation();var t=p(e.target),i=p(e.delegateTarget),n=this.getNodeState(i,"parent");if(n.exist){var s=i.closest(".nodes").siblings(".node");if(s.is(".sliding"))return;n.visible?(this.hideParent(i),s.one("transitionend",{topEdge:t},this.HideFirstParentEnd.bind(this)),this.triggerHideEvent(i,"parent")):(this.showParent(i),this.triggerShowEvent(i,"parent"))}else if(this.startLoading(t)){var o=this.options,a=p.isFunction(o.ajaxURL.parent)?o.ajaxURL.parent(i.data("nodeData")):o.ajaxURL.parent+i[0].id;this.loadNodes("parent",a,t)}},bottomEdgeClickHandler:function(e){e.stopPropagation();var t=p(e.target),i=p(e.delegateTarget),n=this.getNodeState(i,"children");if(n.exist){if(i.siblings(".nodes").children().children(".node").is(".sliding"))return;n.visible?(this.hideChildren(i),this.triggerHideEvent(i,"children")):(this.showChildren(i),this.triggerShowEvent(i,"children"))}else if(this.startLoading(t)){var s=this.options,o=p.isFunction(s.ajaxURL.children)?s.ajaxURL.children(i.data("nodeData")):s.ajaxURL.children+i[0].id;this.loadNodes("children",o,t)}},hEdgeClickHandler:function(e){e.stopPropagation();var t=p(e.target),i=p(e.delegateTarget),n=this.options,s=this.getNodeState(i,"siblings");if(s.exist){if(i.closest(".hierarchy").siblings().find(".sliding").length)return;if(n.toggleSiblingsResp){var o=i.closest(".hierarchy").prev(),a=i.closest(".hierarchy").next();t.is(".leftEdge")?o.is(".hidden")?(this.showSiblings(i,"left"),this.triggerShowEvent(i,"siblings")):(this.hideSiblings(i,"left"),this.triggerHideEvent(i,"siblings")):a.is(".hidden")?(this.showSiblings(i,"right"),this.triggerShowEvent(i,"siblings")):(this.hideSiblings(i,"right"),this.triggerHideEvent(i,"siblings"))}else s.visible?(this.hideSiblings(i),this.triggerHideEvent(i,"siblings")):(this.showSiblings(i),this.triggerShowEvent(i,"siblings"))}else if(this.startLoading(t)){var r=i[0].id,d=this.getNodeState(i,"parent").exist?p.isFunction(n.ajaxURL.siblings)?n.ajaxURL.siblings(i.data("nodeData")):n.ajaxURL.siblings+r:p.isFunction(n.ajaxURL.families)?n.ajaxURL.families(i.data("nodeData")):n.ajaxURL.families+r;this.loadNodes("siblings",d,t)}},expandVNodesEnd:function(e){e.data.vNodes.removeClass("sliding")},collapseVNodesEnd:function(e){e.data.vNodes.removeClass("sliding").closest("ul").addClass("hidden")},toggleVNodes:function(e){var t=p(e.target),i=t.parent().next(),n=i.find(".node"),s=i.children().children(".node");s.is(".sliding")||(t.toggleClass("oci-plus-square oci-minus-square"),n.eq(0).is(".slide-up")?(i.removeClass("hidden"),this.repaint(s.get(0)),s.addClass("sliding").removeClass("slide-up").eq(0).one("transitionend",{vNodes:s},this.expandVNodesEnd)):(n.addClass("sliding slide-up").eq(0).one("transitionend",{vNodes:n},this.collapseVNodesEnd),n.find(".toggleBtn").removeClass("oci-minus-square").addClass("oci-plus-square")))},createGhostNode:function(e){var t,i,n=p(e.target),s=this.options,o=e.originalEvent,a=/firefox/.test(u.navigator.userAgent.toLowerCase());if(f.querySelector(".ghost-node"))t=n.closest(".orgchart").children(".ghost-node").get(0),i=p(t).children().get(0);else{if(!(t=f.createElementNS("http://www.w3.org/2000/svg","svg")).classList)return;t.classList.add("ghost-node"),i=f.createElementNS("http://www.w3.org/2000/svg","rect"),t.appendChild(i),n.closest(".orgchart").append(t)}var r=n.closest(".orgchart").css("transform").split(","),d="t2b"===s.direction||"b2t"===s.direction,l=Math.abs(u.parseFloat(d?r[0].slice(r[0].indexOf("(")+1):r[1]));t.setAttribute("width",d?n.outerWidth(!1):n.outerHeight(!1)),t.setAttribute("height",d?n.outerHeight(!1):n.outerWidth(!1)),i.setAttribute("x",5*l),i.setAttribute("y",5*l),i.setAttribute("width",120*l),i.setAttribute("height",40*l),i.setAttribute("rx",4*l),i.setAttribute("ry",4*l),i.setAttribute("stroke-width",1*l);var h=o.offsetX*l,c=o.offsetY*l;if("l2r"===s.direction?(h=o.offsetY*l,c=o.offsetX*l):"r2l"===s.direction?(h=n.outerWidth(!1)-o.offsetY*l,c=o.offsetX*l):"b2t"===s.direction&&(h=n.outerWidth(!1)-o.offsetX*l,c=n.outerHeight(!1)-o.offsetY*l),a){i.setAttribute("fill","rgb(255, 255, 255)"),i.setAttribute("stroke","rgb(191, 0, 0)");var g=f.createElement("img");g.src="data:image/svg+xml;utf8,"+(new XMLSerializer).serializeToString(t),o.dataTransfer.setDragImage(g,h,c)}else o.dataTransfer.setDragImage&&o.dataTransfer.setDragImage(t,h,c)},filterAllowedDropNodes:function(i){var n=this.options,s=i.closest("[draggable]").hasClass("node"),o=i.closest(".nodes").siblings(".node"),a=i.closest(".hierarchy").find(".node");this.$chart.data("dragged",i).find(".node").each(function(e,t){s&&-1!==a.index(t)||(n.dropCriteria?n.dropCriteria(i,o,p(t))&&p(t).addClass("allowedDrop"):p(t).addClass("allowedDrop"))})},dragstartHandler:function(e){e.originalEvent.dataTransfer.setData("text/html","hack for firefox"),"none"!==this.$chart.css("transform")&&this.createGhostNode(e),this.filterAllowedDropNodes(p(e.target))},dragoverHandler:function(e){p(e.delegateTarget).is(".allowedDrop")?e.preventDefault():e.originalEvent.dataTransfer.dropEffect="none"},dragendHandler:function(e){this.$chart.find(".allowedDrop").removeClass("allowedDrop")},dropHandler:function(e){var t=p(e.delegateTarget),i=this.$chart.data("dragged");if(i.hasClass("node")){if(t.hasClass("allowedDrop")){var n=i.closest(".nodes").siblings(".node"),s=p.Event("nodedrop.orgchart");if(this.$chart.trigger(s,{draggedNode:i,dragZone:n,dropZone:t}),!s.isDefaultPrevented()){if(t.siblings(".nodes").length){var o='<i class="edge horizontalEdge rightEdge oci"></i><i class="edge horizontalEdge leftEdge oci"></i>';i.find(".horizontalEdge").length||i.append(o),t.siblings(".nodes").append(i.closest(".hierarchy"));var a=i.closest(".hierarchy").siblings().find(".node:first");1===a.length&&a.append(o)}else t.append('<i class="edge verticalEdge bottomEdge oci"></i>').after('<ul class="nodes"></ul>').siblings(".nodes").append(i.find(".horizontalEdge").remove().end().closest(".hierarchy")),t.children(".title").length&&t.children(".title").prepend('<i class="oci '+this.$chart.data("options").parentNodeSymbol+' symbol"></i>');1===n.siblings(".nodes").children(".hierarchy").length?n.siblings(".nodes").children(".hierarchy").find(".node:first").find(".horizontalEdge").remove():0===n.siblings(".nodes").children(".hierarchy").length&&n.find(".bottomEdge, .symbol").remove().end().siblings(".nodes").remove()}}}else this.$chart.triggerHandler({type:"otherdropped.orgchart",draggedItem:i,dropZone:t})},touchstartHandler:function(e){this.touchHandled||e.touches&&1<e.touches.length||(this.touchHandled=!0,this.touchMoved=!1,e.preventDefault())},touchmoveHandler:function(e){if(this.touchHandled&&!(e.touches&&1<e.touches.length)){e.preventDefault(),this.touchMoved||(this.filterAllowedDropNodes(p(e.currentTarget)),this.touchDragImage=this.createDragImage(e,this.$chart.data("dragged")[0])),this.touchMoved=!0,this.moveDragImage(e,this.touchDragImage);var t=p(f.elementFromPoint(e.touches[0].clientX,e.touches[0].clientY)).closest("div.node");if(0<t.length){var i=t[0];t.is(".allowedDrop")?this.touchTargetNode=i:this.touchTargetNode=null}else this.touchTargetNode=null}},touchendHandler:function(e){if(this.touchHandled){if(this.destroyDragImage(),this.touchMoved){if(this.touchTargetNode){var t={delegateTarget:this.touchTargetNode};this.dropHandler(t),this.touchTargetNode=null}this.dragendHandler(e)}else{var i=e.changedTouches[0],n=f.createEvent("MouseEvents");n.initMouseEvent("click",!0,!0,u,1,i.screenX,i.screenY,i.clientX,i.clientY,e.ctrlKey,e.altKey,e.shiftKey,e.metaKey,0,null),e.target.dispatchEvent(n)}this.touchHandled=!1}},createDragImage:function(e,t){var i=t.cloneNode(!0);this.copyStyle(t,i),i.style.top=i.style.left="-9999px";var n=t.getBoundingClientRect(),s=this.getTouchPoint(e);return this.touchDragImageOffset={x:s.x-n.left,y:s.y-n.top},i.style.opacity="0.5",f.body.appendChild(i),i},destroyDragImage:function(){this.touchDragImage&&this.touchDragImage.parentElement&&this.touchDragImage.parentElement.removeChild(this.touchDragImage),this.touchDragImageOffset=null,this.touchDragImage=null},copyStyle:function(e,t){if(["id","class","style","draggable"].forEach(function(e){t.removeAttribute(e)}),e instanceof HTMLCanvasElement){var i=e,n=t;n.width=i.width,n.height=i.height,n.getContext("2d").drawImage(i,0,0)}for(var s=getComputedStyle(e),o=0;o<s.length;o++){var a=s[o];a.indexOf("transition")<0&&(t.style[a]=s[a])}t.style.pointerEvents="none";for(o=0;o<e.children.length;o++)this.copyStyle(e.children[o],t.children[o])},getTouchPoint:function(e){return e&&e.touches&&(e=e.touches[0]),{x:e.clientX,y:e.clientY}},moveDragImage:function(i,n){if(i&&n){var s=this;requestAnimationFrame(function(){var e=s.getTouchPoint(i),t=n.style;t.position="absolute",t.pointerEvents="none",t.zIndex="999999",s.touchDragImageOffset&&(t.left=Math.round(e.x-s.touchDragImageOffset.x)+"px",t.top=Math.round(e.y-s.touchDragImageOffset.y)+"px")})}},bindDragDrop:function(e){e.on("dragstart",this.dragstartHandler.bind(this)).on("dragover",this.dragoverHandler.bind(this)).on("dragend",this.dragendHandler.bind(this)).on("drop",this.dropHandler.bind(this)).on("touchstart",this.touchstartHandler.bind(this)).on("touchmove",this.touchmoveHandler.bind(this)).on("touchend",this.touchendHandler.bind(this))},createNode:function(i){var n=this.options,e=i.level;i.children&&i[n.nodeId]&&p.each(i.children,function(e,t){t.parentId=i[n.nodeId]});var t=p("<div"+(n.draggable?' draggable="true"':"")+(i[n.nodeId]?' id="'+i[n.nodeId]+'"':"")+(i.parentId?' data-parent="'+i.parentId+'"':"")+">").addClass("node "+(i.className||"")+(e>n.visibleLevel?" slide-up":""));n.nodeTemplate?t.append(n.nodeTemplate(i)):t.append('<div class="title">'+i[n.nodeTitle]+"</div>").append(void 0!==n.nodeContent?'<div class="content">'+(i[n.nodeContent]||"")+"</div>":"");var s=p.extend({},i);delete s.children,t.data("nodeData",s);var o=i.relationship||"";return n.verticalLevel&&e>=n.verticalLevel?e+1>n.verticalLevel&&Number(o.substr(2,1))&&t.append('<i class="toggleBtn oci"></i>').children(".title").prepend('<i class="oci '+n.parentNodeSymbol+' symbol"></i>'):(Number(o.substr(0,1))&&t.append('<i class="edge verticalEdge topEdge oci"></i>'),Number(o.substr(1,1))&&t.append('<i class="edge horizontalEdge rightEdge oci"></i><i class="edge horizontalEdge leftEdge oci"></i>'),Number(o.substr(2,1))&&t.append('<i class="edge verticalEdge bottomEdge oci"></i>').children(".title").prepend('<i class="oci '+n.parentNodeSymbol+' symbol"></i>')),t.on("mouseenter mouseleave",this.nodeEnterLeaveHandler.bind(this)),t.on("click",this.nodeClickHandler.bind(this)),t.on("click",".topEdge",this.topEdgeClickHandler.bind(this)),t.on("click",".bottomEdge",this.bottomEdgeClickHandler.bind(this)),t.on("click",".leftEdge, .rightEdge",this.hEdgeClickHandler.bind(this)),t.on("click",".toggleBtn",this.toggleVNodes.bind(this)),n.draggable&&(this.bindDragDrop(t),this.touchHandled=!1,this.touchMoved=!1,this.touchTargetNode=null),n.createNode&&n.createNode(t,i),t},buildHierarchy:function(e,t){var i=this,n=this.options,s=0;if(s=t.level?t.level:t.level=e.parentsUntil(".orgchart",".nodes").length,2<Object.keys(t).length){var o=this.createNode(t);n.verticalLevel&&n.verticalLevel,e.append(o)}if(t.children&&t.children.length){var a,r=s+1>n.visibleLevel||t.collapsed!==d&&t.collapsed;n.verticalLevel&&s+1>=n.verticalLevel?(a=p('<ul class="nodes">'),r&&s+1>=n.verticalLevel&&a.addClass("hidden"),s+1===n.verticalLevel?e.addClass("hybrid").append(a.addClass("vertical")):e.append(a)):(a=p('<ul class="nodes'+(r?" hidden":"")+'">'),2===Object.keys(t).length||r&&e.addClass("isChildrenCollapsed"),e.append(a)),p.each(t.children,function(){var e=p('<li class="hierarchy">');a.append(e),this.level=s+1,i.buildHierarchy(e,this)})}},buildChildNode:function(e,t){this.buildHierarchy(e,{children:t})},addChildren:function(e,t){this.buildChildNode(e.closest(".hierarchy"),t),e.find(".symbol").length||e.children(".title").prepend('<i class="oci '+this.options.parentNodeSymbol+' symbol"></i>'),e.closest(".nodes.vertical").length?e.children(".toggleBtn").length||e.append('<i class="toggleBtn oci"></i>'):e.children(".bottomEdge").length||e.append('<i class="edge verticalEdge bottomEdge oci"></i>'),this.isInAction(e)&&this.switchVerticalArrow(e.children(".bottomEdge"))},buildParentNode:function(e,t){t.relationship=t.relationship||"001";var i=p('<ul class="nodes"><li class="hierarchy"></li></ul>').find(".hierarchy").append(this.createNode(t)).end();this.$chart.prepend(i).find(".hierarchy:first").append(e.closest("ul").addClass("nodes"))},addParent:function(e,t){this.buildParentNode(e,t),e.children(".topEdge").length||e.children(".title").after('<i class="edge verticalEdge topEdge oci"></i>'),this.isInAction(e)&&this.switchVerticalArrow(e.children(".topEdge"))},buildSiblingNode:function(e,t){var i=p.isArray(t)?t.length:t.children.length,n=e.parent().is(".nodes")?e.siblings().length+1:1,s=n+i,o=1<s?Math.floor(s/2-1):0;if(e.closest(".nodes").parent().is(".hierarchy")){this.buildChildNode(e.parent().closest(".hierarchy"),t);var a=e.parent().closest(".hierarchy").children(".nodes:last").children(".hierarchy");1<n?a.eq(0).before(e.siblings().addBack().unwrap()):a.eq(o).after(e.unwrap())}else this.buildHierarchy(e.parent().prepend(p('<li class="hierarchy">')).children(".hierarchy:first"),t),e.prevAll(".hierarchy").children(".nodes").children().eq(o).after(e)},addSiblings:function(e,t){this.buildSiblingNode(e.closest(".hierarchy"),t),e.closest(".nodes").data("siblingsLoaded",!0),e.children(".leftEdge").length||e.children(".topEdge").after('<i class="edge horizontalEdge rightEdge oci"></i><i class="edge horizontalEdge leftEdge oci"></i>'),this.isInAction(e)&&(this.switchHorizontalArrow(e),e.children(".topEdge").removeClass("oci-chevron-up").addClass("oci-chevron-down"))},removeNodes:function(e){var t=e.closest(".hierarchy").parent();t.parent().is(".hierarchy")?this.getNodeState(e,"siblings").exist?(e.closest(".hierarchy").remove(),1===t.children().length&&t.find(".node:first .horizontalEdge").remove()):t.siblings(".node").find(".bottomEdge").remove().end().end().remove():t.closest(".orgchart").remove()},hideDropZones:function(){this.$chart.find(".allowedDrop").removeClass("allowedDrop")},showDropZones:function(e){this.$chart.find(".node").each(function(e,t){p(t).addClass("allowedDrop")}),this.$chart.data("dragged",p(e))},processExternalDrop:function(e,t){t&&this.$chart.data("dragged",p(t)),e.closest(".node").triggerHandler({type:"drop"})},exportPDF:function(e,t){var i={},n=Math.floor(e.width),s=Math.floor(e.height);u.jsPDF||(u.jsPDF=u.jspdf.jsPDF),(i=s<n?new jsPDF({orientation:"landscape",unit:"px",format:[n,s]}):new jsPDF({orientation:"portrait",unit:"px",format:[s,n]})).addImage(e.toDataURL(),"png",0,0),i.save(t+".pdf")},exportPNG:function(e,t){var i="WebkitAppearance"in f.documentElement.style,n=!!u.sidebar,s="Microsoft Internet Explorer"===navigator.appName||"Netscape"===navigator.appName&&-1<navigator.appVersion.indexOf("Edge"),o=this.$chartContainer;if(!i&&!n||s)u.navigator.msSaveBlob(e.msToBlob(),t+".png");else{var a=".oci-download-btn"+(""!==this.options.chartClass?"."+this.options.chartClass:"");o.find(a).length||o.append('<a class="oci-download-btn'+(""!==this.options.chartClass?" "+this.options.chartClass:"")+'" download="'+t+'.png"></a>'),o.find(a).attr("href",e.toDataURL())[0].click()}},export:function(t,i){var n=this;if(t=void 0!==t?t:this.options.exportFilename,i=void 0!==i?i:this.options.exportFileextension,p(this).children(".spinner").length)return!1;var s=this.$chartContainer,e=s.find(".mask");e.length?e.removeClass("hidden"):s.append('<div class="mask"><i class="oci oci-spinner spinner"></i></div>');var o=s.addClass("canvasContainer").find('.orgchart:not(".hidden")').get(0),a="l2r"===n.options.direction||"r2l"===n.options.direction;html2canvas(o,{width:a?o.clientHeight:o.clientWidth,height:a?o.clientWidth:o.clientHeight,onclone:function(e){p(e).find(".canvasContainer").css("overflow","visible").find('.orgchart:not(".hidden"):first').css("transform","")}}).then(function(e){s.find(".mask").addClass("hidden"),"pdf"===i.toLowerCase()?n.exportPDF(e,t):n.exportPNG(e,t),s.removeClass("canvasContainer")},function(){s.removeClass("canvasContainer")})}},p.fn.orgchart=function(e){return new t(this,e).init()}});
+//# sourceMappingURL=jquery.orgchart.min.js.map
+
 
 /***/ })
 
@@ -19349,12 +19825,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js");
 /* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! bootstrap */ "./node_modules/bootstrap/dist/js/bootstrap.esm.js");
-/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./scss/index.scss */ "./src/scss/index.scss");
-/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_scss_index_scss__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _js_sidebar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./js/sidebar */ "./src/js/sidebar.js");
-/* harmony import */ var _js_sidebar__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_js_sidebar__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _js_menu__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./js/menu */ "./src/js/menu.js");
+/* harmony import */ var orgchart__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! orgchart */ "./node_modules/orgchart/dist/js/jquery.orgchart.min.js");
+/* harmony import */ var orgchart__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(orgchart__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./scss/index.scss */ "./src/scss/index.scss");
+/* harmony import */ var _js_sidebar__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./js/sidebar */ "./src/js/sidebar.js");
+/* harmony import */ var _js_sidebar__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_js_sidebar__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _pages_organazation__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./pages/organazation */ "./src/pages/organazation.js");
+/* harmony import */ var _pages_organazation__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_pages_organazation__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _js_menu__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./js/menu */ "./src/js/menu.js");
 //import js套件
+
 
  //import scss
 
@@ -19362,7 +19842,8 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-(0,_js_menu__WEBPACK_IMPORTED_MODULE_4__.sidebar)();
+
+(0,_js_menu__WEBPACK_IMPORTED_MODULE_6__.sidebar)();
 
 if (false) {}
 })();
